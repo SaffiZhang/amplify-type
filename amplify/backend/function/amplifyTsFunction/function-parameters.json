@@ -1,0 +1,28 @@
+{
+    "permissions": {
+        "auth": {
+            "amplifytype016a4255": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        },
+        "storage": {
+            "s3": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        },
+        "api": {
+            "amplifytype": [
+                "create",
+                "read",
+                "update",
+                "delete"
+            ]
+        }
+    }
+}
