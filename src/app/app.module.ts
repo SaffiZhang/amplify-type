@@ -4,6 +4,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 import { AmplifyAngularModule, AmplifyService } from 'aws-amplify-angular';
+import {AwsCommonService} from 'aws-common';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { AmplifyAngularModule, AmplifyService } from 'aws-amplify-angular';
     AmplifyAngularModule
   ],
   providers: [
-    AmplifyService
+    AmplifyService,
+    AwsCommonService
   ],
   bootstrap: [AppComponent]
 })
