@@ -1,3 +1,5 @@
+cp -r ../../../../../dist/aws-common dist
+cp -r ../../../../../dist/aws-common ../tsc-src/dist
 cd ../tsc-src
-tsc
+tsc --listFiles
 yarn install

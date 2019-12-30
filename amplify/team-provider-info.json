@@ -8,7 +8,8 @@
             "DeploymentBucketName": "amplify-type-dev-20191221120606-deployment",
             "UnauthRoleName": "amplify-type-dev-20191221120606-unauthRole",
             "StackName": "amplify-type-dev-20191221120606",
-            "StackId": "arn:aws:cloudformation:us-east-1:050185192269:stack/amplify-type-dev-20191221120606/335d7490-2414-11ea-bcd5-12bdd946785e"
+            "StackId": "arn:aws:cloudformation:us-east-1:050185192269:stack/amplify-type-dev-20191221120606/335d7490-2414-11ea-bcd5-12bdd946785e",
+            "AmplifyAppId": "d1h1wyaiskmm3m"
         },
         "categories": {
             "auth": {

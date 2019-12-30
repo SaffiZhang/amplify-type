@@ -6,8 +6,5 @@
   "license": "UNLICENSED",
   "scripts": {
     "postinstall": "./postinstall.sh"
-  },
-  "dependencies": {
-    "saffi-first-type-script-package": "^1.0.0"
   }
 }

@@ -91,7 +91,7 @@
 				"Timeout": "25",
 				"Code": {
 					"S3Bucket": "amplify-type-dev-20191221120606-deployment",
-					"S3Key": "amplify-builds/amplifyTsFunction-6a592b7736526a5a5261-build.zip"
+					"S3Key": "amplify-builds/amplifyTsFunction-523965717158496b5636-build.zip"
 				}
 			}
 		},

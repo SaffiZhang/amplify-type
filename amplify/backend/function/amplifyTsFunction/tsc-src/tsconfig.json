@@ -13,5 +13,13 @@
       ],
       "esModuleInterop": true,
       "inlineSourceMap": true
+    },
+    "paths": {
+      "aws-common": [
+        "../../../../../dist/aws-common"
+      ],
+      "aws-common/*": [
+        "../../../../../dist/aws-common*"
+      ]
     }
   }
